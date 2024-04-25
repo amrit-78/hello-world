@@ -7,3 +7,4 @@ Making  a change localy
 Change 1
 Change 2 (tag)
 Change 3 (stash)
+Change 5 (stash 3)
