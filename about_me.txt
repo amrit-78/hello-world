@@ -3,7 +3,7 @@ Git Github
 SQL
 
 Making  a change localy 
-Change1
-Change 2
-Change 4 (Stash.2)
-Change 6
+Change 1
+Change 2 (tag)
+Change 3 (stash)
+Change 5 (stash 3)
